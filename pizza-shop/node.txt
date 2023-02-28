@@ -1,0 +1,9 @@
+payment in website stripe
+
+
+
+Publishable key :
+pk_test_51McLASGaxSNqxYHHpya2byf8JQU14X9mYWCnd3xjNOAkHkgOAQHLxiIC7YfneNL3VnHz3r71pPSU2lhdSKn3Oj9n00rMSCVAmH
+
+Secret key :
+sk_test_51McLASGaxSNqxYHHr42lUWUTjJYBkOVjwEHmfEODtrUSu2qsZ5wfBNLUNpVJL0HYaJfgHBs7prCDmSjIB5c8Q9l600SNWUtsOM
